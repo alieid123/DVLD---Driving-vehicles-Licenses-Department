@@ -109,3 +109,13 @@ Build the solution → Ctrl + Shift + B
 Run the app → F5 or ▶ button
 
 The login screen will load and connect to your configured database
+
+👨‍💻 About the Developer
+---
+Hi, I'm Ali Eid — a passionate .NET Developer and Computer Science student.
+This project reflects my learning journey in software architecture, database systems, and desktop development.
+I'm always improving and building new projects — stay tuned!
+
+📧 ydly429@gmail.com
+
+🔗 https://www.linkedin.com/in/aly-eid-867583345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app

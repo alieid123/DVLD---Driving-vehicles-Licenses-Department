@@ -123,5 +123,4 @@ I'm always improving and building new projects — stay tuned!
 🖼️ UI Preview
 ---
 Here are some screenshots of the DVLD Management System in action 👇
-https://github.com/alieid123/DVLD---Driving-vehicles-Licenses-Department/commit/e42e9fd9d620663860ad27c8f03a4c17ee9366d6#diff-5f51bf6c14a32a1f80677a95fe13474462e235f8b12d9577406e5d2ed73eac87
 

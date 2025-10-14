@@ -1,171 +1,108 @@
-🚗 Driving & Vehicle License Department (DVLD) – Management System
+<h1 align="center">🚗 Driving & Vehicle License Department (DVLD)</h1> <p align="center"> 🧠 A complete <strong>Driving License Management System</strong> built with <strong>C# (.NET Framework)</strong>, <strong>WinForms</strong>, <strong>ADO.NET</strong>, and <strong>SQL Server</strong>. </p> <p align="center"> ⚙️ Realistic Workflow | 🧾 Multi-Service System | 🔐 User Roles & Permissions </p>
+💡 Overview
 
-A Driving License Management System that simulates the real-world operations of a governmental driving and vehicle licensing department.
-This project was developed as part of the ProgrammingAdvices.com DVLD Project Series to apply real-world software engineering concepts, database design, and system architecture.
+The DVLD Management System simulates the real-world workflow of a governmental department that handles the issuance, renewal, suspension, and management of driving licenses.
 
-🧩 Overview
+It was developed as part of the ProgrammingAdvices.com Project Series, implementing a 3-Tier Architecture (Presentation, Business Logic, Data Access) to ensure scalability, modularity, and maintainability.
 
-The DVLD System is a comprehensive application that handles the process of:
+🚀 Features
+✅ Core Modules
 
-Registering applicants
+Applicant registration & license request management
 
-Managing driving license requests
+Full license lifecycle (issue, renew, replace, suspend, unblock)
 
-Handling various services (first-time issue, renewals, replacements, etc.)
+Multi-level test system (medical, theoretical, and practical)
 
-Managing tests (medical, theory, and practical)
+User & Person management (unique National Number)
 
-Issuing, renewing, suspending, or reactivating licenses
+License class management and fee configuration
 
-🛠️ Main Features
-🧑‍💼 User & Person Management
+✅ 3-Tier Architecture
 
-Add, edit, delete, and search for system users.
+Clear separation between UI, business logic, and data access layers
 
-Assign roles and permissions.
+Easier maintenance and scalability
 
-Manage personal information (National No., name, birth date, address, etc.).
+✅ License Services
 
-🧾 License Services
+🆕 First-Time License Issue
 
-First-Time License Issue
+🔁 Re-Test Request
 
-Choose the license class (motorcycle, car, truck, etc.)
+♻️ License Renewal
 
-Check eligibility based on age and previous licenses.
+📄 Replace Lost/Damaged License
 
-Complete all required tests.
+🔓 Unblock Suspended License
 
-Re-Test Request
+🌍 International License Issue
 
-Allows applicants who failed a test to retake it.
+| Test                | Description                           | Fees            |
+| ------------------- | ------------------------------------- | --------------- |
+| 👁️ Vision Test     | Ensures applicant’s visual capability | $10             |
+| 📘 Theoretical Test | Covers road rules and safety          | $20             |
+| 🚗 Practical Test   | Real driving evaluation               | Varies by class |
 
-License Renewal
-
-Renew expired licenses after passing a vision test.
-
-Replace Lost License
-
-Issue a replacement for a lost license.
-
-Replace Damaged License
-
-Issue a replacement for a damaged license.
-
-Unblock Suspended License
-
-Unlock a held license after paying fines.
-
-International License Issue
-
-Issue an international license for holders of valid local car licenses.
-
-📚 License Classes
 
 | Class | Description           | Min Age | Validity | Fees |
-| ----- | --------------------- | ------- | -------- | ---- |
-| 1     | Small Motorcycle      | 18      | 5 years  | $15  |
-| 2     | Heavy Motorcycle      | 21      | 5 years  | $30  |
-| 3     | Private Car           | 18      | 10 years | $20  |
-| 4     | Taxi / Limousine      | 21      | 10 years | $200 |
-| 5     | Agricultural Vehicles | 21      | 10 years | $50  |
-| 6     | Medium Buses          | 21      | 10 years | $250 |
-| 7     | Heavy Trucks          | 21      | 10 years | $300 |
+| :---: | --------------------- | :-----: | :------: | :--: |
+|   1   | Small Motorcycle      |    18   |  5 years |  $15 |
+|   2   | Heavy Motorcycle      |    21   |  5 years |  $30 |
+|   3   | Private Car           |    18   | 10 years |  $20 |
+|   4   | Taxi / Limousine      |    21   | 10 years | $200 |
+|   5   | Agricultural Vehicles |    21   | 10 years |  $50 |
+|   6   | Medium Buses          |    21   | 10 years | $250 |
+|   7   | Heavy Trucks          |    21   | 10 years | $300 |
 
-🧪 Required Tests
+✅ System Management
 
-Applicants must pass the following tests in order:
+👥 Manage Users (add, update, delete, freeze)
 
-Vision Test – $10
+🧍 Manage Persons (unique national records)
 
-Verifies eyesight health.
+🗃 Manage Requests (filter & view all license requests)
 
-Theoretical Test – $20
+🧾 Manage Tests & Classes (update fees & requirements)
 
-Questions about driving rules and road safety.
+🕓 Audit Logs (track user actions and timestamps)
 
-Practical Test – Fee varies by license class.
+| Technology             | Description                        |
+| ---------------------- | ---------------------------------- |
+| 💻 C#                  | Application logic & business rules |
+| 🪟 Windows Forms       | Desktop user interface             |
+| 🔗 ADO.NET             | Data access & database operations  |
+| 🗄️ SQL Server         | Backend database                   |
+| 🧩 3-Tier Architecture | UI, BLL, and DAL structure         |
 
-Real-world driving skills evaluation.
+Follow these steps to set up and run the project locally 👇
 
-⚙️ System Management
-
-Manage Users – Add, update, freeze, or delete accounts.
-
-Manage Persons – Maintain unique records based on National Number.
-
-Manage Requests – Filter and view all license-related requests.
-
-Manage Tests & Classes – Update fees, durations, and requirements.
-
-Audit Logs – Track all system actions with timestamps and user info.
-
-🧱 Technologies Used
-
-C# / .NET Framework
-
-Windows Forms (WinForms)
-
-ADO.NET for Database Connectivity
-
-SQL Server Database
-
-3-Tier Architecture (Presentation – Business Logic – Data Access)
-
-🧠 Key Learning Outcomes
-
-Designing a realistic government workflow system
-
-Implementing multi-tier architecture
-
-Building dynamic forms and database-driven UIs
-
-Applying CRUD operations and validation rules
-
-Managing user permissions and roles
-
-
-🚀 How to Run the Application
-
-Follow these steps to set up and run the project locally:
-1. Clone the Repository
-git clone https://github.com/alieid123/DVLD---Driving-vehicles-Licenses-Department
+1️⃣ Clone the Repository
+git clone https://github.com/alieid123/DVLD---Driving-vehicles-Licenses-Department.git
 cd DVLD---Driving-vehicles-Licenses-Department
 
-2. Import the Database
+2️⃣ Import the Database
 
-Inside the project folder, locate the SQL backup file (e.g., DVLD.bak).
+Locate the SQL backup file (e.g., DVLD.bak).
 
-Restore it in SQL Server Management Studio (SSMS).
-
-Right-click on Databases → Restore Database → From Device...
+In SQL Server Management Studio (SSMS) → Right-click Databases → Restore Database → From Device...
 
 Select the .bak file and restore it.
 
-3. Update the Connection String
+3️⃣ Update the Connection String
 
 Open the project in Visual Studio.
 
-Go to the Data Access Layer and open the file:
+Go to:
 
 /DataAccessLayer/clsDVLDSettings.cs
 
-Find the connection string line and modify it according to your local SQL Server setup, for example
+Find and edit the connection string based on your local setup:
 
-Save the changes.
+4️⃣ Build & Run
 
-4. Build and Run
+Build the solution → Ctrl + Shift + B
 
-Build the solution (Ctrl + Shift + B).
+Run the app → F5 or ▶ button
 
-Run the application (F5 or ▶ button).
-
-The system will load the login screen and connect to your configured database.
-
-📜 Author
-
-Ali Eid
-📧 [ydly429@gmail.com]
-💼 [https://www.linkedin.com/in/aly-eid-867583345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
-
-
+The login screen will load and connect to your configured database

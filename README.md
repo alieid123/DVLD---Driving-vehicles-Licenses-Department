@@ -119,3 +119,9 @@ I'm always improving and building new projects — stay tuned!
 📧 ydly429@gmail.com
 
 🔗 https://www.linkedin.com/in/aly-eid-867583345?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+🖼️ UI Preview
+---
+Here are some screenshots of the DVLD Management System in action 👇
+
+

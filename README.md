@@ -6,8 +6,9 @@ The DVLD Management System simulates the real-world workflow of a governmental d
 It was developed as part of the ProgrammingAdvices.com Project Series, implementing a 3-Tier Architecture (Presentation, Business Logic, Data Access) to ensure scalability, modularity, and maintainability.
 
 🚀 Features
+---
 ✅ Core Modules
-
+---
 Applicant registration & license request management
 
 Full license lifecycle (issue, renew, replace, suspend, unblock)
@@ -19,13 +20,13 @@ User & Person management (unique National Number)
 License class management and fee configuration
 
 ✅ 3-Tier Architecture
-
+---
 Clear separation between UI, business logic, and data access layers
 
 Easier maintenance and scalability
 
 ✅ License Services
-
+---
 🆕 First-Time License Issue
 
 🔁 Re-Test Request
@@ -37,6 +38,7 @@ Easier maintenance and scalability
 🔓 Unblock Suspended License
 
 🌍 International License Issue
+
 
 | Test                | Description                           | Fees            |
 | ------------------- | ------------------------------------- | --------------- |
@@ -56,7 +58,7 @@ Easier maintenance and scalability
 |   7   | Heavy Trucks          |    21   | 10 years | $300 |
 
 ✅ System Management
-
+---
 👥 Manage Users (add, update, delete, freeze)
 
 🧍 Manage Persons (unique national records)
@@ -78,11 +80,12 @@ Easier maintenance and scalability
 Follow these steps to set up and run the project locally 👇
 
 1️⃣ Clone the Repository
+---
 git clone https://github.com/alieid123/DVLD---Driving-vehicles-Licenses-Department.git
 cd DVLD---Driving-vehicles-Licenses-Department
 
 2️⃣ Import the Database
-
+---
 Locate the SQL backup file (e.g., DVLD.bak).
 
 In SQL Server Management Studio (SSMS) → Right-click Databases → Restore Database → From Device...
@@ -90,7 +93,7 @@ In SQL Server Management Studio (SSMS) → Right-click Databases → Restore Dat
 Select the .bak file and restore it.
 
 3️⃣ Update the Connection String
-
+---
 Open the project in Visual Studio.
 
 Go to:
@@ -100,7 +103,7 @@ Go to:
 Find and edit the connection string based on your local setup:
 
 4️⃣ Build & Run
-
+---
 Build the solution → Ctrl + Shift + B
 
 Run the app → F5 or ▶ button

@@ -124,5 +124,5 @@ I'm always improving and building new projects — stay tuned!
 ---
 Here are some screenshots of the DVLD Management System in action 👇
 ### 🔐 Login Form
-![Main](screenshorts/Main.png)
+![Main](Screenshorts/Main.png)
 

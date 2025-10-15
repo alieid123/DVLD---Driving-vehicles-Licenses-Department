@@ -174,8 +174,8 @@ Here are some screenshots of the DVLD Management System in action 👇
 ### Update Local Driving License Application
 ![UpdateLDLApp](Screenshorts/UpdateLDLApp.png)
 ### Licenses History
-![لقطة شاشة 2025-10-14 145218](Screenshorts/لقطة شاشة 2025-10-14 145218.png)
+![لقطة شاشة 2025-10-14 145218]([Screenshorts/لقطة شاشة 2025-10-14 145218.png])
 ### Manage International License Applications 
-![لقطة شاشة 2025-10-14 145248](Screenshorts/لقطة شاشة 2025-10-14 145248.png)
+![لقطة شاشة 2025-10-14 145248]([Screenshorts/لقطة شاشة 2025-10-14 145248.png])
 ### International License Info
-![لقطة شاشة 2025-10-14 145302](Screenshorts/لقطة شاشة 2025-10-14 145302.png)
+![لقطة شاشة 2025-10-14 145302]([Screenshorts/لقطة شاشة 2025-10-14 145302.png])

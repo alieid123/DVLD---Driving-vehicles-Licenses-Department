@@ -125,4 +125,57 @@ I'm always improving and building new projects — stay tuned!
 Here are some screenshots of the DVLD Management System in action 👇
 ### 🔐 Login Form
 ![Main](Screenshorts/Main.png)
-
+### Main Screen
+![Applications](Screenshorts/Applications.png)
+### Add Person
+![AddPerson](Screenshorts/AddPerson.png)
+### Add User
+![AddUser](Screenshorts/AddUser.png)
+### App Details
+![AppDetails](Screenshorts/AppDetails.png)
+### App Types
+![AppTypes](Screenshorts/AppTypes.png)
+### Detain License
+![DetainLicense](Screenshorts/DetainLicense.png)
+### Edit Local Driving License Application
+![EditLDLApp](Screenshorts/EditLDLApp.png)
+### Issue Internationa lLicense
+![IssueInternationalLicense](Screenshorts/IssueInternationalLicense.png)
+### Local Driving License Application
+![LDLApp](Screenshorts/LDLApp.png)
+### Local License Info
+![LocalLicenseInfo](Screenshorts/LocalLicenseInfo.png)
+### Manage Detained Licenses
+![ManageDetainedLicenses](Screenshorts/ManageDetainedLicenses.png)
+### Manage Drivers
+![ManageDrivers](Screenshorts/ManageDrivers.png)
+### Manage Local Driving License Application
+![ManageLDLApp](Screenshorts/ManageLDLApp.png)
+### Manage People
+![ManagePeople](Screenshorts/ManagePeople.png)
+### Manage Sechdule Tests
+![ManageSechduleTests](Screenshorts/ManageSechduleTests.png)
+### Manage Users
+![ManageUsers](Screenshorts/ManageUsers.png)
+### Release Detained License
+![ReleaseDetainedLicense](Screenshorts/ReleaseDetainedLicense.png)
+### Renew License
+![RenewLicense](Screenshorts/RenewLicense.png)
+### Sechdule Tests
+![SechduleTests](Screenshorts/SechduleTests.png)
+### Take Tests
+![TakeTests](Screenshorts/TakeTests.png)
+### Tests
+![Tests](Screenshorts/Tests.png)
+### Tests Types
+![TestTypes](Screenshorts/TestTypes.png)
+### Tests Types
+![TestTypes](Screenshorts/TestTypes.png)
+### Update Local Driving License Application
+![UpdateLDLApp](Screenshorts/UpdateLDLApp.png)
+### Licenses History
+![لقطة شاشة 2025-10-14 145218](Screenshorts/لقطة شاشة 2025-10-14 145218.png)
+### Manage International License Applications 
+![لقطة شاشة 2025-10-14 145248](Screenshorts/لقطة شاشة 2025-10-14 145248.png)
+### International License Info
+![لقطة شاشة 2025-10-14 145302](Screenshorts/لقطة شاشة 2025-10-14 145302.png)
